@@ -1,6 +1,7 @@
 ﻿//https://www.youtube.com/watch?v=UjkSFoLxesw&ab_channel=Dave%2FGameDevelopment 
 // Feb 2 2021
 // MMackenzie
+// *this code is broken. Too many errors.
 
 using System.Collections;
 using System.Collections.Generic;
